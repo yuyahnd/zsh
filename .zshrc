@@ -3,6 +3,7 @@ autoload -U compinit
 compinit
 
 # alias
+export LSCOLORS=gxfxcxdxbxegedabagacad
 alias ls='ls -G'
 alias ll='ls -alF'
 alias la='ls -A'
