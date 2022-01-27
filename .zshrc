@@ -26,3 +26,6 @@ alias l='ls -CF'
 
 # ssh-agent
 alias saa='ssh-add --apple-load-keychain'
+
+# docker
+alias dc='docker-compose'
